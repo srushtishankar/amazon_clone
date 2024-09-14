@@ -43,11 +43,7 @@ Open the index.html file in your browser to view the project.
 Live Demo:
 
 ![image](https://github.com/user-attachments/assets/fce6f8c3-9720-49e4-9849-f55187f84dfb)
-
-
 ![image](https://github.com/user-attachments/assets/a1757c9d-8b5e-440f-b027-3407201e0a25)
-
-
 ![image](https://github.com/user-attachments/assets/3f190da8-c6ff-4312-b6ec-7a608f5610b9)
 
 
