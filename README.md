@@ -35,9 +35,20 @@ Clone the repository :
 
 Copy code
 
- " git clone https://github.com/yourusername/amazon-clone-html-css.git "
+ " git clone (https://github.com/srushtishankar/amazon_clone) "
  
 Open the index.html file in your browser to view the project.
 
 Live Demo:
+
+![image](https://github.com/user-attachments/assets/fce6f8c3-9720-49e4-9849-f55187f84dfb)
+
+
+![image](https://github.com/user-attachments/assets/a1757c9d-8b5e-440f-b027-3407201e0a25)
+
+
+![image](https://github.com/user-attachments/assets/9ce297c4-4cc9-4ade-96ed-69ccac881528)
+
+
+
 
