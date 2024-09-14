@@ -27,6 +27,7 @@ Replicates the footer with multiple columns of links and information similar to 
 # Technologies Used:
 
 HTML5: For structuring the content of the pages.
+
 CSS3: For styling and layout, including Flexbox and Grid for responsive design.
 
 # Setup Instructions:
@@ -47,7 +48,8 @@ Live Demo:
 ![image](https://github.com/user-attachments/assets/a1757c9d-8b5e-440f-b027-3407201e0a25)
 
 
-![image](https://github.com/user-attachments/assets/9ce297c4-4cc9-4ade-96ed-69ccac881528)
+![image](https://github.com/user-attachments/assets/3f190da8-c6ff-4312-b6ec-7a608f5610b9)
+
 
 
 
